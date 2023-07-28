@@ -1,0 +1,9 @@
+{
+	"name": "beardatafactoryinstance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e55feee-54cd-485f-92fe-d616c6560e89",
+		"tenantId": "c11f206d-75e1-4892-8f7b-d5a05a6f6ed2"
+	}
+}
