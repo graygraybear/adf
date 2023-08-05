@@ -1,0 +1,9 @@
+{
+	"name": "ctoigniteADFTest12345",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19433f8e-d29b-454b-a9ce-534be6bbdc3f",
+		"tenantId": "c11f206d-75e1-4892-8f7b-d5a05a6f6ed2"
+	}
+}
