@@ -1,0 +1,11 @@
+{
+	"name": "AzureKeyVaultbear",
+	"properties": {
+		"description": "created during datafactory setup process",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://bearkeyvalutforadf.vault.azure.net/"
+		}
+	}
+}
